@@ -17,7 +17,7 @@ A simple breadcrumb package for Sage 10.
 Install via Composer:
 
 ```bash
-$ composer require log1x/crumb
+$ composer require wurkhouse/crumb
 ```
 
 ## Usage
