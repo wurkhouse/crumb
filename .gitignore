@@ -1,0 +1,9 @@
+/vendor
+.env
+.budfiles
+npm-debug.log
+yarn-error.log
+.vscode
+.history
+.history/
+.DS_Store
